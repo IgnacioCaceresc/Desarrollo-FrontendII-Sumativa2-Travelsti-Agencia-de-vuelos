@@ -43,7 +43,7 @@ const apolloMocks = [
 
 describe('Travelsti - Integración Frontend con Backend (REST & GraphQL)', () => {
   test('1. Renderiza el catálogo de destinos desde la API REST con país y actividades populares', async () => {
-    window.history.pushState({}, 'Inicio', '/');
+    window.history.pushState({}, 'Inicio', `${process.env.PUBLIC_URL || ''}/`);
 
     render(
       <MockedProvider mocks={apolloMocks}>
@@ -66,7 +66,7 @@ describe('Travelsti - Integración Frontend con Backend (REST & GraphQL)', () =>
   });
 
   test('2. Permite filtrar destinos dinámicamente mediante useState', async () => {
-    window.history.pushState({}, 'Destinos', '/destinos');
+    window.history.pushState({}, 'Destinos', `${process.env.PUBLIC_URL || ''}/destinos`);
 
     render(
       <MockedProvider mocks={apolloMocks}>
@@ -86,7 +86,7 @@ describe('Travelsti - Integración Frontend con Backend (REST & GraphQL)', () =>
   });
 
   test('3. Navega a un destino y consulta vuelos y hoteles mediante GraphQL (Apollo Client)', async () => {
-    window.history.pushState({}, 'Detalle París', '/destinos/paris');
+    window.history.pushState({}, 'Detalle París', `${process.env.PUBLIC_URL || ''}/destinos/paris`);
 
     render(
       <MockedProvider mocks={apolloMocks}>

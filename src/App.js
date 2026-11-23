@@ -16,8 +16,13 @@ function App() {
     hotel: null,
   });
 
+  const routerBasename = process.env.PUBLIC_URL || '/';
+
   return (
-    <Router future={{ v7_startTransition: true, v7_relativeSplatPath: true }}>
+    <Router
+      basename={routerBasename}
+      future={{ v7_startTransition: true, v7_relativeSplatPath: true }}
+    >
       <div className="app-shell">
         <BarraNavegacion
           tripPlan={tripPlan}
