@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Desarrollo-FrontendII-Sumativa2-Travelsti-Agencia-de-vuelos/static/css/main.5c6b1107.css",
+    "main.js": "/Desarrollo-FrontendII-Sumativa2-Travelsti-Agencia-de-vuelos/static/js/main.845bcec2.js",
+    "static/js/173.806df1d0.chunk.js": "/Desarrollo-FrontendII-Sumativa2-Travelsti-Agencia-de-vuelos/static/js/173.806df1d0.chunk.js",
+    "static/js/453.c7f5008b.chunk.js": "/Desarrollo-FrontendII-Sumativa2-Travelsti-Agencia-de-vuelos/static/js/453.c7f5008b.chunk.js",
+    "static/js/540.c2ca73e2.chunk.js": "/Desarrollo-FrontendII-Sumativa2-Travelsti-Agencia-de-vuelos/static/js/540.c2ca73e2.chunk.js",
+    "static/js/966.b67e363d.chunk.js": "/Desarrollo-FrontendII-Sumativa2-Travelsti-Agencia-de-vuelos/static/js/966.b67e363d.chunk.js",
+    "index.html": "/Desarrollo-FrontendII-Sumativa2-Travelsti-Agencia-de-vuelos/index.html",
+    "main.5c6b1107.css.map": "/Desarrollo-FrontendII-Sumativa2-Travelsti-Agencia-de-vuelos/static/css/main.5c6b1107.css.map",
+    "main.845bcec2.js.map": "/Desarrollo-FrontendII-Sumativa2-Travelsti-Agencia-de-vuelos/static/js/main.845bcec2.js.map",
+    "173.806df1d0.chunk.js.map": "/Desarrollo-FrontendII-Sumativa2-Travelsti-Agencia-de-vuelos/static/js/173.806df1d0.chunk.js.map",
+    "453.c7f5008b.chunk.js.map": "/Desarrollo-FrontendII-Sumativa2-Travelsti-Agencia-de-vuelos/static/js/453.c7f5008b.chunk.js.map",
+    "540.c2ca73e2.chunk.js.map": "/Desarrollo-FrontendII-Sumativa2-Travelsti-Agencia-de-vuelos/static/js/540.c2ca73e2.chunk.js.map",
+    "966.b67e363d.chunk.js.map": "/Desarrollo-FrontendII-Sumativa2-Travelsti-Agencia-de-vuelos/static/js/966.b67e363d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c6b1107.css",
+    "static/js/main.845bcec2.js"
+  ]
+}
