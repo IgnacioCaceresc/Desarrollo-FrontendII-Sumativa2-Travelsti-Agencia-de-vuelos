@@ -1,4 +1,4 @@
-# Travelsti — Agencia de Viajes & Planificador de Vacaciones
+# Travelsti — Agencia de Viajes y Planificador de Vacaciones
 
 Aplicación web para una **Agencia de Viajes** desarrollada con **React**, **React Router**, **Apollo Client** y **Mock Service Worker (MSW)**. Permite explorar destinos internacionales, consultar su clima actual en tiempo real y planificar un viaje completo cotizando opciones de vuelos y hoteles en **Pesos Chilenos (`CLP`)** o **Dólares (`USD`)**.
 
