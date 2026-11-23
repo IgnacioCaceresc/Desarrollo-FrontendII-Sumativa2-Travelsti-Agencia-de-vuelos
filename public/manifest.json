@@ -1,0 +1,9 @@
+{
+  "short_name": "Travelsti",
+  "name": "Travelsti Agencia de Viajes",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#f8fafc"
+}
+
